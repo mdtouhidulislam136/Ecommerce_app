@@ -1,0 +1,18 @@
+ [
+    {
+      "firstName": "John",
+      "lastName": "Doe",
+      "email": "johndoe@gmail.com",
+      "data": {
+        "role": "admin"
+      }
+    },
+    {
+      "firstName": "Jane",
+      "lastName": "Smith",
+      "email": "janesmith@gmail.com",
+      "data": {
+        "role": "visitor"
+      }
+    }
+  ]

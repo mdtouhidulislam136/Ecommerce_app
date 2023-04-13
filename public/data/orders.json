@@ -1,0 +1,12 @@
+ [
+    {
+      "productId": "p001",
+      "userId": "u001",
+      "purchasedAt": "2022-03-24T10:30:00Z"
+    },
+    {
+      "productId": "p002",
+      "userId": "u002",
+      "purchasedAt": "2022-03-25T14:15:00Z"
+    }
+  ]

@@ -1,0 +1,170 @@
+[
+  {
+    "id": "p001",
+    "name": "Classic T-Shirt8",
+    "description": "A comfortable and stylish t-shirt made from high-quality cotton.",
+    "categories": ["clothing", "men's clothing", "women's clothing"],
+    "variants": [
+      {
+        "color": "white",
+        "price": 20.99,
+        "image": "../assets/images/t-shirt.jpg",
+        "sizes": ["S", "M", "L", "XL"]
+      }
+    ]
+  },
+  {
+    "id": "p002",
+    "name": "Classic T-Shirt9",
+    "description": "A comfortable and stylish t-shirt made from high-quality cotton.",
+    "categories": ["clothing", "men's clothing", "women's clothing"],
+    "variants": [
+      {
+        "color": "white",
+        "price": 20.99,
+        "image": "../assets/images/t-shirt.jpg",
+        "sizes": ["S", "M", "L", "XL"]
+      }
+    ]
+  },
+  {
+    "id": "p003",
+    "name": "Classic T-Shirt10",
+    "description": "A comfortable and stylish t-shirt made from high-quality cotton.",
+    "categories": ["clothing", "men's clothing", "women's clothing"],
+    "variants": [
+      {
+        "color": "white",
+        "price": 20.99,
+        "image": "../assets/images/t-shirt.jpg",
+        "sizes": ["S", "M", "L", "XL"]
+      }
+    ]
+  },
+  {
+    "id": "p004",
+    "name": "Classic T-Shirt11",
+    "description": "A comfortable and stylish t-shirt made from high-quality cotton.",
+    "categories": ["clothing", "men's clothing", "women's clothing"],
+    "variants": [
+      {
+        "color": "white",
+        "price": 20.99,
+        "image": "../assets/images/t-shirt.jpg",
+        "sizes": ["S", "M", "L", "XL"]
+      }
+    ]
+  },
+  {
+    "id": "p005",
+    "name": "Classic T-Shirt12",
+    "description": "A comfortable and stylish t-shirt made from high-quality cotton.",
+    "categories": ["clothing", "men's clothing", "women's clothing"],
+    "variants": [
+      {
+        "color": "white",
+        "price": 20.99,
+        "image": "../assets/images/t-shirt.jpg",
+        "sizes": ["S", "M", "L", "XL"]
+      }
+    ]
+  },
+  {
+    "id": "p006",
+    "name": "Classic T-Shirt23",
+    "description": "A comfortable and stylish t-shirt made from high-quality cotton.",
+    "categories": ["clothing", "men's clothing", "women's clothing"],
+    "variants": [
+      {
+        "color": "white",
+        "price": 20.99,
+        "image": "../assets/images/t-shirt.jpg",
+        "sizes": ["S", "M", "L", "XL"]
+      }
+    ]
+  },
+  {
+    "id": "p007",
+    "name": "Classic T-Shirt32",
+    "description": "A comfortable and stylish t-shirt made from high-quality cotton.",
+    "categories": ["clothing", "men's clothing", "women's clothing"],
+    "variants": [
+      {
+        "color": "white",
+        "price": 20.99,
+        "image": "../assets/images/t-shirt.jpg",
+        "sizes": ["S", "M", "L", "XL"]
+      }
+    ]
+  },
+  {
+    "id": "p008",
+    "name": "Classic T-Shirt19",
+    "description": "A comfortable and stylish t-shirt made from high-quality cotton.",
+    "categories": ["clothing", "men's clothing", "women's clothing"],
+    "variants": [
+      {
+        "color": "white",
+        "price": 20.99,
+        "image": "../assets/images/t-shirt.jpg",
+        "sizes": ["S", "M", "L", "XL"]
+      }
+    ]
+  },
+  {
+    "id": "p009",
+    "name": "Classic T-Shirt01",
+    "description": "A comfortable and stylish t-shirt made from high-quality cotton.",
+    "categories": ["clothing", "men's clothing", "women's clothing"],
+    "variants": [
+      {
+        "color": "white",
+        "price": 20.99,
+        "image": "../assets/images/t-shirt.jpg",
+        "sizes": ["S", "M", "L", "XL"]
+      }
+    ]
+  },
+  {
+    "id": "p0010",
+    "name": "Classic T-Shirt03",
+    "description": "A comfortable and stylish t-shirt made from high-quality cotton.",
+    "categories": ["clothing", "men's clothing", "women's clothing"],
+    "variants": [
+      {
+        "color": "white",
+        "price": 20.99,
+        "image": "../assets/images/t-shirt.jpg",
+        "sizes": ["S", "M", "L", "XL"]
+      }
+    ]
+  },
+  {
+    "id": "p0011",
+    "name": "Classic T-Shirt78",
+    "description": "A comfortable and stylish t-shirt made from high-quality cotton.",
+    "categories": ["clothing", "men's clothing", "women's clothing"],
+    "variants": [
+      {
+        "color": "white",
+        "price": 20.99,
+        "image": "../assets/images/t-shirt.jpg",
+        "sizes": ["S", "M", "L", "XL"]
+      }
+    ]
+  },
+  {
+    "id": "p0012",
+    "name": "Classic T-Shirt75",
+    "description": "A comfortable and stylish t-shirt made from high-quality cotton.",
+    "categories": ["clothing", "men's clothing", "women's clothing"],
+    "variants": [
+      {
+        "color": "white",
+        "price": 20.99,
+        "image": "../assets/images/t-shirt.jpg",
+        "sizes": ["S", "M", "L", "XL"]
+      }
+    ]
+  }
+]
